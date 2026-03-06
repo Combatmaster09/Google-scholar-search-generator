@@ -1,0 +1,6 @@
+any linux device: file ending in .desktop
+Windows: file ending in .exe
+anything else: download the file ending in .py and google how to use it.
+               I am in the process of adding more OS compatibility including
+               MacOS and ChromeOS but this is difficult due to not owning
+               a device that runs either of these

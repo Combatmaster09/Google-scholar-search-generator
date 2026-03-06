@@ -1,0 +1,8 @@
+[Desktop Entry]
+Type=Application
+Name=Google Scholar Search Generator
+Comment=Run Google Scholar search query generator
+Exec=konsole -e /home/FightTheFoos/Documents/Uni/Google_Scholar_Search_Generator.py
+Icon=python
+Terminal=false
+Categories=Utility;Development;
